@@ -1,60 +1,115 @@
-# .☘︎ ݁˖ Hi, I’m luma 
-
 <div align="left">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+```console
+luma@github:~$ whoami
+
+Alias      : luma,antiher0
+Role       : Builder / System Explorer
+Status     : Running unstable experiments
+Location   : Somewhere between Arch Linux and machine dreams
+Uptime     : unknown
+```
 
 </div>
 
+<div align="center">
 
-
-<div align="left">
-.☘︎ ݁˖ Open-source ✦︎ Hobbyist ☽
-</div>
-
-<br>
-
-<div align="left">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=200&color=86EFAC&width=560&lines=XP+%5B░░░░░░░░░░%5D;XP+%5B██░░░░░░░░%5D;XP+%5B████░░░░░░%5D;XP+%5B██████░░░░%5D;XP+%5B████████░░%5D;XP+%5BFULL%5D;LEVEL+UP+⬆️)](https://git.io/typing-svg)
-
-</div>
-
-## 📊 Stats
-
-<div align="left">
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lumacodes&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumacodes&layout=compact&theme=dark&hide_border=true)
-
-<br>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=lumacodes&theme=dark&hide_border=true)
-
-<br>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lumacodes&theme=github-dark&hide_border=true)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1500&color=7EE787&center=true&vCenter=true&width=750&lines=Building+things+that+probably+shouldn't+exist.;Reverse-engineering+my+own+curiosity.;sudo+apt+install+purpose.;The+kernel+panic+was+educational.;Trying+to+understand+the+machines.;Still+running." />
 
 </div>
 
 ---
 
+## ☾ PROFILE
+
+```txt
+Designation : Chronically Online
+Status      : Running experimental builds in production
+Alignment   : Curiosity > Stability
+
+OS          : Arch Linux / macOS
+Editor      : Neovim (join the cult,become one of us)
+Shell       : fish [i said fish you know where i am from :) ]
+
+Current Objective:
+Build enough systems
+until reality itself
+starts behaving like source code (yeah yeah).
+```
+
+---
+
+## ⚡ ACTIVE PROCESSES
+
+```txt
+◉ Building AI tools
+◉ Breaking My Mind
+◉ Automating unnecessary tasks
+◉ Turning ideas into repositories
+◉ Reading documentation at 3 AM
+◉ Pretending project scope is real (it sadly never was fr fr)
+```
+
+---
+
+## ⚒ TOOLCHAIN
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,nodejs,git,docker,linux,bash,neovim"/>
+</p>
+
+---
+
+## 🗂 SYSTEM LOGS
+
+```txt
+[✓] Survived Arch installation
+[✓] Compiled a Gentoo kernel manually
+[✓] Lost countless hours to ricing
+[✓] Learned more from failures than tutorials
+[✓] Accepted that unfinished projects count
+```
+
+---
+
+## 🧪 EXPERIMENTS
+
+```txt
+HNLINK
+└─ Hacker News → AI → Telegram → LinkedIn pipeline
+
+shefixu-ai-girlfriend
+└─ Real-time 3D AI companion with VRM and lip-sync
+
+VideoGifer
+└─ Converts GIF archives into cinematic videos
+
+unbloatedxLuma
+└─ Hand-configured Gentoo kernel experiment
+
+GuruSahayak
+└─ AI-assisted tools for Indian educators
+```
+
+---
+
+## 📜 SYSTEM PHILOSOPHY
+
+> "Most expertise is just surviving
+> enough catastrophic mistakes
+> to recognize them faster."
+
+---
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/subhajitkumardas">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+```console
+$ journalctl -u luma.service
 
-<a href="https://x.com/lumacodes">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-</a>
+[INFO] initialized curiosity
+[WARN] exceeded project scope
+[ERROR] sleep not found
+[INFO] continuing execution
+```
 
 </div>
