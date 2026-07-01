@@ -3,14 +3,22 @@
 ```console
 luma@github:~$ whoami
 
-Alias      : luma,antiher0
-Role       : Builder / System Explorer
+Alias      : luma & antihero
+Role       : Fullstack Dev
 Status     : Running unstable experiments
-Location   : Somewhere between Arch Linux and machine dreams
+Location   : Stuck in the dimensional Void since 2018
 Uptime     : unknown
 ```
 
 </div>
+
+---
+## ⚒ TOOLCHAIN
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,nodejs,git,docker,linux,bash,neovim"/>
+</p>
+
 
 <div align="center">
 
@@ -24,92 +32,66 @@ Uptime     : unknown
 
 ```txt
 Designation : Chronically Online
-Status      : Running experimental builds in production
-Alignment   : Curiosity > Stability
-
 OS          : Arch Linux / macOS
 Editor      : Neovim (join the cult,become one of us)
-Shell       : fish [i said fish you know where i am from :) ]
-
-Current Objective:
-Build enough systems
-until reality itself
-starts behaving like source code (yeah yeah).
 ```
-
 ---
+</div>
 
-## ⚡ ACTIVE PROCESSES
+
+## 𓏲ּ𝄢 Spirit Animal btw
 
 ```txt
-◉ Building AI tools
-◉ Breaking My Mind
-◉ Automating unnecessary tasks
-◉ Turning ideas into repositories
-◉ Reading documentation at 3 AM
-◉ Pretending project scope is real (it sadly never was fr fr)
+⡐⢂⠲⡐⢢⢀⠂⡔⠠⠒⡄⢃⡒⠔⡂⠖⡐⢆⠒⡔⢂⠲⡐⢂⠖⡐⢢⠒⡰⢂⡈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠰⡉⢆⢡⠃⣄⠣⢀⠣⠄⢘⡡⠘⡄⢣⢘⠰⣈⠒⡌⡘⠤⡑⢊⠔⡉⢆⠱⢠⠃⡄⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣻⡽⣯⠟
+⢂⠱⡈⠆⣸⢆⠡⢂⠒⣈⠐⡄⢋⠔⡡⢊⠔⢢⠑⡄⢃⡒⢡⠊⡔⢡⠊⡔⢡⠊⡔⢙⣿⣿⣿⣿⣿⣿⣿⣿⣟⣯⢿⡽⢧⢋
+⡈⢆⡑⢲⢻⣌⡳⣌⢶⣠⢃⠘⠤⢊⠔⡡⢊⠤⢃⠜⡰⢈⠆⡱⢈⠆⡱⢈⠆⡱⢈⠜⣿⣿⣿⣿⣿⣿⣿⣿⢯⣟⣯⣟⡯⢆
+⡐⢂⠀⡀⠁⢚⠿⣽⣻⢾⣭⠎⡐⢣⠘⡄⢣⠘⡄⢎⠰⡁⢎⠰⡁⢎⠰⡁⢎⠰⡁⠆⢿⡿⣿⣿⣿⣿⡿⣯⣿⣻⢾⣽⣛⡆
+⡘⢄⣀⠀⠸⣿⣿⣶⣭⡛⢾⣓⠈⢆⠱⡈⢆⠱⡈⢆⠱⡈⢆⠱⡈⢆⠱⡈⢆⠱⣈⠱⡘⠿⡽⢻⡞⣷⢻⢯⠷⣟⠿⠾⠝⠂
+⠌⣸⣿⢿⡄⢻⣿⣿⣿⣿⣷⣦⣉⠢⡑⢌⠢⡑⢌⠢⡑⢌⠢⡑⢌⠢⡑⢌⠢⡑⠤⢃⠄⠰⢀⠃⡐⠠⠂⣀⣢⣴⣶⣿⡇⠀
+⢲⣿⢯⣟⣷⡘⣿⣿⣿⣿⣿⣿⣿⣷⣮⡀⢇⡘⢄⠣⡘⢄⠣⡘⢄⠣⡘⢢⢑⡘⡰⢉⠜⠀⡌⣤⣴⣶⣿⣿⣿⣿⣿⣿⠇⠀
+⣿⢯⣟⡿⣞⠳⡘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡘⠄⢣⣜⣀⣃⣘⣂⣡⣑⣂⣈⢐⣁⣎⣶⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⡐
+⣿⢯⡿⣽⢏⢣⠐⡈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⣀⠔⡠
+⠌⢋⡙⠤⠋⢄⠃⠤⠁⠙⢿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣡⣾⢯⣟⡔
+⠀⠂⠀⠄⢁⠂⠌⠤⢁⠂⠀⢡⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡻⢋⣥⣾⡿⣯⣟⡾⡐
+⠀⠀⠀⠀⠀⡈⠰⢈⠆⡘⢠⣿⣿⣿⣿⡿⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⢿⣿⣿⣿⣿⣿⣷⡜⢯⣷⣻⢷⡻⣜⠡
+⠀⠀⠀⠀⠀⢀⠡⢊⠔⣉⣾⣿⣿⣿⣿⠘⠛⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠘⠟⠀⣿⣿⣿⣿⣿⣿⣿⡨⢓⡹⢎⡱⢌⠡
+⠀⠀⠀⠀⠀⠀⠂⠥⡚⣼⣿⣿⣿⣿⣿⣶⣤⣾⣿⣿⣿⡿⠿⣿⣿⣿⣿⣿⣿⣷⣤⣶⣿⣿⣿⣿⣿⣿⣿⣇⠡⠒⢄⠒⡨⠐
+⠀⠀⠀⠀⠀⠠⡉⢦⢡⡿⢟⡻⠟⠿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⢟⢻⡛⢻⣿⣿⣿⡄⢡⠊⠤⡑⠌
+⢀⡄⣄⢢⣌⡵⣜⣮⢹⣡⠚⣔⢋⢎⣹⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⠔⣊⠦⣍⢣⢾⣿⣿⡧⢮⣝⣲⢡⢊
+⣾⣼⣞⡷⣾⣽⣻⢾⣸⣷⣼⣬⣷⣴⣿⣿⣿⣿⣿⣿⡏⣾⣿⣿⣿⣷⢹⣿⣿⣿⣿⣿⣲⣩⣶⣬⣶⣾⣿⣿⣿⠾⣽⣳⣏⠆
+⣿⢾⣽⣻⢷⣯⣟⣯⣧⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣙⣿⠿⡿⣏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣿⣳⢿⡌
+⣿⢯⣷⢿⣻⡾⣽⣳⣯⢧⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣾⣽⡻⡔
+⣟⡿⣞⣯⢷⣻⣽⣳⢯⡟⣇⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠓⣯⠳⠌
+⠸⢹⠙⡎⢏⠳⢍⠫⡙⡜⢄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠣⡙⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
----
-
-## ⚒ TOOLCHAIN
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,nodejs,git,docker,linux,bash,neovim"/>
-</p>
 
 ---
+## ⚛︎ EXPERIMENTS
 
-## 🗂 SYSTEM LOGS
-
-```txt
-[✓] Survived Arch installation
-[✓] Compiled a Gentoo kernel manually
-[✓] Lost countless hours to ricing
-[✓] Learned more from failures than tutorials
-[✓] Accepted that unfinished projects count
-```
-
----
-
-## 🧪 EXPERIMENTS
-
-```txt
-HNLINK
-└─ Hacker News → AI → Telegram → LinkedIn pipeline
-
-shefixu-ai-girlfriend
-└─ Real-time 3D AI companion with VRM and lip-sync
-
-VideoGifer
-└─ Converts GIF archives into cinematic videos
-
-unbloatedxLuma
-└─ Hand-configured Gentoo kernel experiment
-
-GuruSahayak
-└─ AI-assisted tools for Indian educators
-```
-
----
-
-## 📜 SYSTEM PHILOSOPHY
-
-> "Most expertise is just surviving
-> enough catastrophic mistakes
-> to recognize them faster."
-
+- **[HNLINK](https://github.com/Lumacodes/HNLINK)**  
+  ↳ LinkedIn,Telegram News automation pipeline
+- **[shefixu-ai-girlfriend](https://github.com/Lumacodes/shefixu-ai-girlfriend)**  
+  ↳ Real-time AI companion
+- **[VideoGifer](https://github.com/Lumacodes/VideoGifer)**  
+  ↳ GIF → Make Beat Sync AMV edits,cinematic video 
+- **[unbloatedxLuma](https://github.com/Lumacodes/unbloatedxLuma)**  
+  ↳ Gentoo kernel experiment,Optimizing Kernals level things 
+- **[GuruSahayak](https://github.com/Lumacodes/GuruSahayak)**  
+  ↳ Tool for Students and schools 
 ---
 
 <div align="center">
 
 ```console
-$ journalctl -u luma.service
+$ systemctl status finances.service
 
-[INFO] initialized curiosity
-[WARN] exceeded project scope
-[ERROR] sleep not found
-[INFO] continuing execution
+● finances.service - Luma's survival daemon
+     Loaded: loaded (/etc/systemd/system/finances.service)
+     Active: failing (Result: rent is due gang)
 ```
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lumacodes)
 
-</div>
+
+---
