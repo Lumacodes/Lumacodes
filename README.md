@@ -1,78 +1,68 @@
+<div align="center">
+  <picture>
+    <source
+      width="100"
+      height="100"
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.githubassets.com/images/mona-loading-dark.gif">
+    <source
+      width="100"
+      height="100"
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.githubassets.com/images/mona-loading-default.gif">
+    <img
+      width="100"
+      height="100"
+      alt="Running Mona, the Octocat"
+      src="https://github.githubassets.com/images/mona-loading-default.gif">
+  </picture>
+</div>
+
+<br>
+
 <div align="left">
-
-```console
-luma@github:~$ whoami
-
-Alias      : luma & antihero
-Role       : Fullstack Dev
-Status     : Running unstable experiments
-Location   : Stuck in the dimensional Void since 2018
-Uptime     : unknown
-```
-
+𓏲ּ𝄢
 </div>
 
----
-## ⚒ TOOLCHAIN
+<div align="center">
+𓏲ּ𝄢
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,nodejs,git,docker,linux,bash,neovim"/>
-</p>
+<div align="right">
+𓏲ּ𝄢
+</div>
 
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1500&color=7EE787&center=true&vCenter=true&width=750&lines=Building+things+that+probably+shouldn't+exist.;Reverse-engineering+my+own+curiosity.;sudo+apt+install+purpose.;The+kernel+panic+was+educational.;Trying+to+understand+the+machines.;Still+running." />
+<table>
+<tr>
+
+<td width="68%" valign="top">
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lumacodes&show_icons=true&theme=transparent&count_private=true"
+  alt="GitHub Stats" />
+
+</td>
+
+<td width="32%" align="center" valign="middle">
+<h4>⌘</h4>
+
+<sub>
+Support independent development.
+</sub>
+
+<br><br>
+
+<a href="https://ko-fi.com/lumacodes">
+  <img src="https://img.shields.io/badge/Support-000000?style=for-the-badge&logo=ko-fi&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
----
-
-## 𓏲ּ𝄢 philosophy.txt
-
-<details>
-<summary><code>$ cat ~/mind/philosophy.txt</code></summary>
-
-```c
-while (alive) {
-    learn();
-    build();
-    break();
-    fix();
-    repeat();
-}
-```
-
-</details>
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Lumacodes&show_icons=true&theme=transparent&count_private=true)
-
-
-
-## ⚛︎ EXPERIMENTS
-
-- **[HNLINK](https://github.com/Lumacodes/HNLINK)**  
-  ↳ LinkedIn,Telegram News automation pipeline
-- **[shefixu-ai-girlfriend](https://github.com/Lumacodes/shefixu-ai-girlfriend)**  
-  ↳ Real-time AI companion
-- **[VideoGifer](https://github.com/Lumacodes/VideoGifer)**  
-  ↳ GIF → Make Beat Sync AMV edits,cinematic video 
-- **[unbloatedxLuma](https://github.com/Lumacodes/unbloatedxLuma)**  
-  ↳ Gentoo kernel experiment,Optimizing Kernals level things 
-- **[GuruSahayak](https://github.com/Lumacodes/GuruSahayak)**  
-  ↳ Tool for Students and schools 
----
-
-<div align="center">
-
-```console
-$ systemctl status finances.service
-
-● finances.service - Luma's survival daemon
-     Loaded: loaded (/etc/systemd/system/finances.service)
-     Active: failing (Result: rent is due gang)
-```
-[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lumacodes)
-
-
----
