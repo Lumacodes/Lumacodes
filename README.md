@@ -33,36 +33,3 @@
 </div>
 
 <br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="68%" valign="top">
-
-<img
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lumacodes&show_icons=true&theme=transparent&count_private=true"
-  alt="GitHub Stats" />
-
-</td>
-
-<td width="32%" align="center" valign="middle">
-<h4>⌘</h4>
-
-<sub>
-Support independent development.
-</sub>
-
-<br><br>
-
-<a href="https://ko-fi.com/lumacodes">
-  <img src="https://img.shields.io/badge/Support-000000?style=for-the-badge&logo=ko-fi&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
